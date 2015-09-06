@@ -17,6 +17,7 @@ public class testBody {
 	public void buildUp() throws Exception {
 		/*HashMap<String,String> collection = new HashMap<String,String>();
 		
+		
 		Date mDate = new Date();
 		float chestSkinfold = 5;
 		float stomachSkinfold = 19;
